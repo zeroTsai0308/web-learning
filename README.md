@@ -28,6 +28,7 @@ web learning
 8.4 有些頁面內容比較多，導致頁面過長，此時用戶需要不停地拖動瀏覽器上的滾動條才可以看到下面的內容。為了方便用戶操作，我們可以使用錨點鏈接來優化用戶體驗。(點擊回到網頁的某一部份)<br><br/>
  
 ## Ch9 Form
+表單元素不一定都要放在form標簽內。對於要與服務器進行交互的表單元素，必須放在form標簽內才有效。如果表單元素不需要與服務器進行交互，那就沒必要放在form標簽內。<br><br/>
 9.1 利用<form>建立表單<br><br/>
 9.2 表單屬性 <br><br/>
   * name:替表單命名
@@ -46,5 +47,21 @@ web learning
 9.5 單選框<br><br/>
   * name:同一組選項必須擁有相同name
   * 為了更好語意化可以用label將表單元素框起來<br><br/>
-  
-  
+9.6 複選框<br><br/>
+9.7 button<br><br/>
+ 
+9.6 複選框(基本和單選框類似)<br><br/>
+9.7 按鈕<br><br/>
+  * button:一般配合js操作
+  * submit:給server提交數據
+  * reset:清空所在form的輸入<br><br/>
+
+9.8 透過input:file上傳檔案<br><br/>
+9.9 透過textarea建立多文本框<br><br/>
+9.10 透過select + option建立下拉表單<br><br/>
+ * select 屬性:
+  * multiplt下拉表可選擇多項
+  * size設定下拉表顯示幾項
+ * option 屬性:
+  * selected預先選擇
+  * value配合js

@@ -40,7 +40,7 @@ web learning
   * value:默認值
   * size: 欄位長度
   * maxlength: 最常輸入長度<br><br/>
-9.4 輸入密碼<br><br/>
+9.4 輸入密碼
 9.5 單選框<br><br/>
   * name:同一組選項必須擁有相同name
   * 為了更好語意化可以用label將表單元素框起來<br><br/>

@@ -47,10 +47,9 @@ web learning
 9.5 單選框<br><br/>
   * name:同一組選項必須擁有相同name
   * 為了更好語意化可以用label將表單元素框起來<br><br/>
-9.6 複選框<br><br/>
-9.7 button<br><br/>
- 
+
 9.6 複選框(基本和單選框類似)<br><br/>
+ 
 9.7 按鈕<br><br/>
   * button:一般配合js操作
   * submit:給server提交數據

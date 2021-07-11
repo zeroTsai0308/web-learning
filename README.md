@@ -34,7 +34,8 @@ web learning
   * method:指定http提交模式get/post一般使用post
   * action:要提交去哪處理
   * target:指定窗口打開方式
-  * enctype:指定表單數據提交的編碼方式，需要上傳文件時使用<br><br/>
+  * enctype:指定表單數據提交的編碼方式，需要上傳文件時使用
+
 9.3 input屬性<br><br/>
   * value:默認值
   * size: 欄位長度

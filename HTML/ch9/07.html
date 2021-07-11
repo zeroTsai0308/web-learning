@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>按鈕</title> 
+        <script>
+            window.onload=function()
+            {
+                var oBtn=document.getElementsByTagName("input");
+                oBtn[0].onclick=function()
+                {
+                    alert("I Like HTML");
+                };
+            }
+        </script>
+    </head>
+    <body>
+        <form  method="post">
+            <input type="button" value="表白">
+        </form>
+        <form method="post">
+            <input type="button" value="普通按鈕">
+            <input type="submit" value="提交按鈕">
+        </form>
+        <form  method="post">
+            輸入:<input type="text"><br>
+            <input type="reset" value="清空按鈕">
+        </form>
+    </body>
+</html>

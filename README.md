@@ -64,3 +64,5 @@ web learning
  * option 屬性:
   * selected預先選擇
   * value配合js
+## Ch10 frame
+10.1 透過iframe嵌入網頁<br><br/>
